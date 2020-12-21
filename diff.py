@@ -8,3 +8,6 @@ def add_one(func, x):
 
 y = add_
 print(add_one(y,3))
+
+def add_2(x):
+	return x+1
